@@ -1,0 +1,11 @@
+Raspberry Pi Security Camera System Essential Commands:
+-------------------------------------------------------
+
+https://n02469512.pagekite.me  #address of stream
+
+$ sudo service motion start  #start motion (stop, restart)
+
+$ pagekite 8081 n02469512.pagekite.me   #enable pagekite server without access restricitons
+
+$ pagekite 8081 n02469512.pagekite.me +password/<USER>=<PASSWORD>   #start server with access restrictions
+
