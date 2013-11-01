@@ -10,4 +10,4 @@ $ pagekite 8081 n02469512.pagekite.me   #enable pagekite server without access r
 $ pagekite 8081 n02469512.pagekite.me +password/<USER>=<PASSWORD>   #start server with access restrictions
 
 $ pagekite --daemonize /tmp/motion n02469512.pagekite.me +indexes +password/USER=PASSWORD AND 8081 n02469512.pagekite.me:8081 +password/USER=PASSWORD    
-    #enable two pagekite servers to run in daemon mode, one as the stream one as the archives, with a user/pass for each
+     #enable two pagekite servers to run in daemon mode, one as the stream one as the archives, with a user/pass for each
