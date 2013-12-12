@@ -13,5 +13,5 @@ $ pagekite --daemonize /tmp/motion n02469512.pagekite.me +indexes +password/USER
 	#enable two pagekite servers to run in daemon mode, one as the stream one as the archives, with a user/pass for each
 
 
-$ pagekite 8081 stream1-n02469512.pagekite.me +password/n02469512=Qsynqsyn1 AND /tmp/motion archives1-n02469512.pagekite.me +indexes +password/n02469512=Qsynqsyn1 AND 80 n02469512.pagekite.me
+$ pagekite 8081 stream1-n02469512.pagekite.me +password/<USER>=<PASSWORD> AND /tmp/motion archives1-n02469512.pagekite.me +indexes +password/<USER>=<PASSWORD> AND 80 n02469512.pagekite.me
 	#Enable 3rd pagekite pages to run simultaneously. One central page links to the streams and corresponding archives. This is the preferred setup.
