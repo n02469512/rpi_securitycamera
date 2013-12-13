@@ -1,0 +1,30 @@
+List of Sources Used
+---------------------
+
+General Research:
+
+http://www.bubblews.com/news/1258665-raspberry-pi-webcam-server-tutorial-live-stream
+http://www.youtube.com/watch?v=H1jSudsIJfA
+http://wolfpaulus.com/jounal/embedded/raspberrypi_webcam/
+http://pingbin.com/2012/12/raspberry-pi-web-cam-server-motion/
+http://www.jann.cc/2013/01/21/control_your_light_at_home_with_a_raspberry_pi.html#install-pagekite-on-the-raspberry-pi
+http://www.jann.cc/2013/01/21/control_your_light_at_home_with_a_raspberry_pi.html#get-a-public-ip-address-with-pagekite
+https://www.modmypi.com/blog/tutorial-how-to-give-your-raspberry-pi-a-static-ip-address
+http://www.raspberrypi.org/phpBB3/viewtopic.php?f=26&t=34327
+http://www.lavrsen.dk/foswiki/bin/view/Motion/MotionGuideOneLargeDocument
+http://programmaticponderings.wordpress.com/2013/01/01/remote-motion-activated-web-based-video-surveillance-with-raspberry-pi/
+http://www.raspberrypi.org/phpBB3/viewtopic.php?t=20561
+http://activedatainfo.com/motion_panoramic_hd_3g_webcam/raspberry_pi_setup.php
+http://www.raspberrypi.org/phpBB3/viewtopic.php?f=28&t=30827
+http://www.raspberrypi.org/phpBB3/viewtopic.php?t=61261&p=456050
+
+
+Used For Project Implementation:
+
+http://elinux.org/RPi_USB_Webcams
+http://techspect.co.uk/2013/how-to-raspberry-pi-webcam-server-stream/
+https://pagekite.net/wiki/Howto/GNULinux/DebianPackage/
+https://pagekite.net/support/quickstart/
+https://pagekite.net/wiki/Floss/TechnicalManual/
+https://pagekite.net/signup/?more=bw
+http://www.penguintutor.com/linux/light-webserver
